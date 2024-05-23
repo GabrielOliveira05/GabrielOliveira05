@@ -8,7 +8,6 @@ Bem-vindo ao meu perfil! Sou Gabriel Oliveira, um desenvolvedor júnior especial
 
 - 🎓 **Formação**: Cursando o sétimo semestre do Bacharel em Ciência da Computação pela Universidade Paulista.
 - 🌱 **Atualmente Aprendendo**: Spring Boot, Microservices, Docker.
-- 📫 **Contato**: [Email](gabrielluiz.rodrigues@hotmail.com), [LinkedIn]([https://www.linkedin.com/in/joaosilva/](https://www.linkedin.com/in/gabriel-luiz-rodrigues-de-oliveira-997475240/))
 
 ## Habilidades
 
@@ -17,5 +16,12 @@ Bem-vindo ao meu perfil! Sou Gabriel Oliveira, um desenvolvedor júnior especial
 - **Ferramentas e Tecnologias**: Git, Maven
 - **Bancos de Dados**: MySQL, PostgreSQL
 - **Metodologias**: Agile, Scrum
+
+- ## Contato
+
+Sinta-se à vontade para entrar em contato comigo através das seguintes plataformas:
+
+- **Email**: [gabrielluiz.rodrigues@hotmail.com](mailto:gabrielluiz.rodrigues@hotmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/gabriel-luiz-rodrigues-de-oliveira-997475240/](https://www.linkedin.com/in/gabriel-luiz-rodrigues-de-oliveira-997475240/)
 
 Obrigado por visitar meu perfil!
