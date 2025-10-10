@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil! Sou Gabriel Oliveira, um desenvolvedor júnior especial
 
 ## Sobre Mim
 
-- 🎓 **Formação**: Cursando o sétimo semestre do Bacharel em Ciência da Computação pela Universidade Paulista.
+- 🎓 **Formação**: Finalizei o Bacharel em Ciência da Computação pela Universidade Paulista.
 - 🌱 **Atualmente Aprendendo**: Spring Boot, Microservices, Docker.
 
 ## Habilidades
