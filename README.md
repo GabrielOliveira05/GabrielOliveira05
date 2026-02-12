@@ -1,27 +1,72 @@
-# Gabriel Oliveira - Desenvolvedor Java Júnior
+# 👋 Olá! Eu sou o Gabriel Oliveira
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+🚀 Desenvolvedor **Java Júnior**, apaixonado por tecnologia, aprendizado contínuo e por construir soluções eficientes e escaláveis.
 
-Bem-vindo ao meu perfil! Sou Gabriel Oliveira, um desenvolvedor júnior especializado em Java. Sou apaixonado por aprender novas tecnologias e construir soluções eficientes e escaláveis.
+Atualmente estou focado em evoluir no ecossistema Java, explorando boas práticas de back-end, arquitetura e ferramentas modernas de desenvolvimento.
 
-## Sobre Mim
+---
 
-- 🎓 **Formação**: Finalizei o Bacharel em Ciência da Computação pela Universidade Paulista.
-- 🌱 **Atualmente Aprendendo**: Spring Boot, Microservices, Docker.
+## 🧑‍💻 Sobre mim
 
-## Habilidades
+🎓 **Formação:**  
+Bacharel em Ciência da Computação pela Universidade Paulista (UNIP)
 
-- **Linguagens de Programação**: Java, JavaScript, SQL
-- **Frameworks**: Spring Boot, Hibernate
-- **Ferramentas e Tecnologias**: Git, Maven
-- **Bancos de Dados**: MySQL, PostgreSQL
-- **Metodologias**: Agile, Scrum
+📚 **Atualmente aprendendo:**  
+- Spring Boot  
+- Microservices  
+- Docker  
 
-- ## Contato
+💡 Tenho interesse em back-end, APIs REST, boas práticas de código e arquitetura de software.
 
-Sinta-se à vontade para entrar em contato comigo através das seguintes plataformas:
+---
 
-- **Email**: [gabrielluiz.rodrigues@hotmail.com](mailto:gabrielluiz.rodrigues@hotmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/gabriel-luiz-rodrigues-de-oliveira-997475240/](https://www.linkedin.com/in/gabriel-luiz-rodrigues-de-oliveira-997475240/)
+## 🛠️ Habilidades Técnicas
 
-Obrigado por visitar meu perfil!
+### 💻 Linguagens
+- Java  
+- JavaScript  
+- SQL  
+
+### ⚙️ Frameworks & Bibliotecas
+- Spring Boot  
+- Hibernate / JPA  
+
+### 🧰 Ferramentas & Tecnologias
+- Git & GitHub  
+- Maven  
+
+### 🗄️ Bancos de Dados
+- MySQL  
+- PostgreSQL  
+
+### 📌 Metodologias
+- Agile  
+- Scrum  
+
+---
+
+## 📂 Projetos
+
+Aqui no meu GitHub você vai encontrar projetos focados em:
+- APIs REST com Java e Spring Boot  
+- Aplicações back-end  
+- Projetos de estudo e aprendizado contínuo  
+
+*(Sempre buscando melhorar organização, legibilidade e boas práticas de código)*
+
+---
+
+## 📫 Contato
+
+Sinta-se à vontade para entrar em contato comigo:
+
+📧 **Email:**  
+gabrielluiz.rodrigues@hotmail.com  
+
+💼 **LinkedIn:**  
+[linkedin.com/in/gabriel-luiz-rodrigues-de-oliveira-997475240](https://www.linkedin.com/in/gabriel-luiz-rodrigues-de-oliveira-997475240/)
+
+---
+
+⭐ Obrigado por visitar meu perfil!  
+Se curtir algum projeto, não esquece de deixar uma estrela 😉
